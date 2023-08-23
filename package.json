@@ -1,0 +1,15 @@
+{
+  "name": "react-challenge",
+  "version": "1.0.0",
+  "description": "10 React Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "challenge"
+  ],
+  "author": "Daniel Saavedra",
+  "license": "ISC"
+}
