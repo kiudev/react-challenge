@@ -1,0 +1,26 @@
+main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+div {
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  button {
+    margin: 10px 0;
+    padding: 5px 10px;
+  }
+  
+  .wrapper {
+    padding: 10px;
+    border: 2px solid #efefef;
+    margin-bottom: 10px;
+  }
+  
+  .box-wrapper {
+    border: 2px solid #f76cb2;
+    width: max-content;
+  }
+  
